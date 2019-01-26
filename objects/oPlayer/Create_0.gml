@@ -9,3 +9,5 @@ controller=0;
 efectoVolar=0;
 
 gamepad_set_axis_deadzone(0, 0.7);
+draw_set_alpha(1);
+
