@@ -1,10 +1,10 @@
 //Acciones del jugador (gamepad_axis_value(0, gp_axislh) < 0)
 key_left = keyboard_check(vk_left) || keyboard_check(ord("A"));
 key_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
-key_space = keyboard_check(vk_space) || (gamepad_button_check(0, gp_face1)); 
+key_space = keyboard_check_pressed(vk_space) || (gamepad_button_check_pressed(0, gp_face1)); 
 key_up = keyboard_check(vk_up) || keyboard_check(ord("W"));
 key_down = keyboard_check(vk_down) || keyboard_check(ord("S"));
-key_shift = keyboard_check(vk_lshift);
+key_shift = keyboard_check(vk_lshift)||(gamepad_button_check(0, gp_shoulderr));
 
 if (key_left) or (key_right) or (key_space)
 {
@@ -16,7 +16,7 @@ if(abs(gamepad_axis_value(0,gp_axislh)) > 0.2)
 	key_right = max(gamepad_axis_value(0,gp_axislh),0);
 	controller=1;
 }
-if(gamepad_button_check(0,gp_face1))
+if(gamepad_button_check_pressed(0,gp_face1))
 {
 	key_space=1;
 	controller=1;
@@ -38,16 +38,16 @@ if(key_shift)
 }
 
 //show_debug_message(place_meeting(x, y+1, oWall));
-/*if (place_meeting(x, y+1, oWall))
+if (place_meeting(x, y+1, oWall))
 {
 	doubleJump=maxJumps;
 }
 
-if(doubleJump>0)and(key_space)
+if (key_space) and (doubleJump > 0)
 {show_debug_message(doubleJump);
-	doubleJump -= 1;
-	vsp = -4;
-}*/
+	doubleJump-=1;
+	vsp=-4;
+}
 
 if(efectoVolar==1)
 {
