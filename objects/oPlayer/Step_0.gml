@@ -3,6 +3,8 @@ key_left = keyboard_check(vk_left) || keyboard_check(ord("A"));
 key_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
 key_space = keyboard_check(vk_space) || (gamepad_button_check(0, gp_face1)); 
 key_up = keyboard_check(vk_up) || keyboard_check(ord("W"));
+key_down = keyboard_check(vk_down) || keyboard_check(ord("S"));
+key_shift = keyboard_check(vk_lshift);
 
 if (key_left) or (key_right) or (key_space)
 {
@@ -28,10 +30,43 @@ hsp = move * walkspeed;
 //Gravedad
 vsp = vsp + grv;
 
-//show_debug_message(place_meeting(x, y+1, oWall));
-if (place_meeting(x, y+1, oWall)) and (key_space)
+if(key_shift)
 {
+	walkspeed=5;
+}else{
+	walkspeed=3;
+}
+
+//show_debug_message(place_meeting(x, y+1, oWall));
+/*if (place_meeting(x, y+1, oWall))
+{
+	doubleJump=maxJumps;
+}
+
+if(doubleJump>0)and(key_space)
+{show_debug_message(doubleJump);
+	doubleJump -= 1;
 	vsp = -4;
+}*/
+
+if(efectoVolar==1)
+{
+	death_time += delta_time;
+
+	if (death_time >= 2 * 1000000) {
+	   efectoVolar=0;
+	}
+}
+
+
+if(efectoVolar==1)and(key_space)
+{
+	vsp = -3;
+	//show_debug_message(cantidadSaltos);
+	if(place_meeting(x, y+1, oWall))
+	{
+		efectoVolar=0;
+	}
 }
 
 //Colision horizontal
@@ -60,6 +95,7 @@ y = y + vsp;
 
 //Animation
 //Si brinca
+
 if(!place_meeting(x,y+1,oWall))
 {
 	sprite_index = sPlayerA;
