@@ -47,10 +47,26 @@
             }
         },
         {
+            "Key": "07147d94-3133-4573-9133-e6095304bdd0",
+            "Value": {
+                "id": "b83bb9bd-e864-4e0c-8a00-c46c26fdb10c",
+                "resourcePath": "sprites\\sNivelMenu2\\sNivelMenu2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0745f118-4750-4d0a-8a02-e46373108f0b",
             "Value": {
                 "id": "35713af5-d3b1-484e-a569-1ecda68a9eb4",
                 "resourcePath": "sprites\\sPlayerA\\sPlayerA.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0e34b737-141c-4b3e-ba21-5c2995150d53",
+            "Value": {
+                "id": "685602cc-7691-49e0-a5e7-5cd30c5b0350",
+                "resourcePath": "sprites\\sTransition\\sTransition.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -91,6 +107,14 @@
             "Value": {
                 "id": "5ead0323-1ff9-4009-bf9d-615efe19662a",
                 "resourcePath": "sprites\\sGun\\sGun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1f34f287-30bc-4cce-911f-ac56aa95f70e",
+            "Value": {
+                "id": "576b3674-c752-4f0f-bd77-37b4604a3b6c",
+                "resourcePath": "sprites\\sBotonOpcion\\sBotonOpcion.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -231,6 +255,22 @@
             }
         },
         {
+            "Key": "4b6e4075-60df-492b-ab1c-eed542aed6ae",
+            "Value": {
+                "id": "ac1ccaa3-7cf9-4db2-839d-1b4569be9630",
+                "resourcePath": "sprites\\sNivelMenu1\\sNivelMenu1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4ba04af9-aa16-47ad-9cc0-e1d8084479d2",
+            "Value": {
+                "id": "bb33a294-5714-4fae-9e55-d837ea7a120d",
+                "resourcePath": "objects\\oNivelMenu1\\oNivelMenu1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5267dd71-0d3b-4b85-a405-be4b0d41db9a",
             "Value": {
                 "id": "be682c09-b28c-4e15-bb06-a7786f24c8b1",
@@ -319,6 +359,14 @@
             }
         },
         {
+            "Key": "67de8092-dcd7-40df-8ddb-7583b42e6149",
+            "Value": {
+                "id": "8bf3caf4-ad3d-4bd2-bdf9-38c51b725882",
+                "resourcePath": "rooms\\roomMenu\\roomMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "6af2c572-44ef-46d7-9eb6-a678644a909b",
             "Value": {
                 "id": "f4159675-709b-442e-9932-2cc4d423b5df",
@@ -335,11 +383,35 @@
             }
         },
         {
+            "Key": "7215afe3-d023-4e63-a158-30fdaa44c82e",
+            "Value": {
+                "id": "e0fbafcb-77be-4e57-a3f1-4fc6f6358fbf",
+                "resourcePath": "objects\\oTransition\\oTransition.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "72c91cab-9bc6-43c8-b007-a4babcadfb14",
+            "Value": {
+                "id": "cf92cdcf-a2b0-4fd6-99e6-d57c190f4115",
+                "resourcePath": "sprites\\sBotonInfo\\sBotonInfo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "48840981-a208-4223-aa71-45bb1598c15c",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "77f7718d-5a9b-4226-9e2e-1023a920bc20",
+            "Value": {
+                "id": "f414b857-06c6-40b7-8041-206c64ed6dfe",
+                "resourcePath": "objects\\oBotonOpcion\\oBotonOpcion.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -447,6 +519,14 @@
             }
         },
         {
+            "Key": "a771ab0f-1692-4636-b52d-a5dfd90ec3a1",
+            "Value": {
+                "id": "357dd8a2-01e5-43e6-bc6b-eafd7a51efe5",
+                "resourcePath": "objects\\oBotonInfo\\oBotonInfo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a816faab-5aff-4ab5-ab72-b7549283ffac",
             "Value": {
                 "id": "4877acdf-3bdd-4052-b39b-c2949a16d5ea",
@@ -476,6 +556,14 @@
                 "id": "2335ae3e-e6bd-41aa-8a08-3b3c35ec5f2f",
                 "resourcePath": "views\\b0f1f738-8c79-45f9-a8fa-a6fc3244e073.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b8a1f920-c61c-4e8c-a28c-5430a16af551",
+            "Value": {
+                "id": "f5cc9b2a-7abf-40ac-9dd1-7103f977c75d",
+                "resourcePath": "sprites\\sNivelMenu3\\sNivelMenu3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -516,6 +604,14 @@
                 "id": "aee86f5a-48ac-4e6d-92bc-89e8f4ed57b3",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ce97b8a7-b45a-408f-a610-d0a8f20e4d89",
+            "Value": {
+                "id": "0188252f-7ff9-469f-b0a7-e40c653174f8",
+                "resourcePath": "objects\\oNivelMenu2\\oNivelMenu2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -564,6 +660,14 @@
                 "id": "cbf4880a-50f4-41ff-8586-a22dcfc80cc3",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f6a9a39f-70f0-4c9a-b6fa-b44d7fbe2436",
+            "Value": {
+                "id": "650028b6-abdb-402c-88c7-51c83e352793",
+                "resourcePath": "objects\\oNivelMenu3\\oNivelMenu3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
