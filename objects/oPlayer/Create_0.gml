@@ -5,4 +5,7 @@ walkspeed=4;//Velocidad de caminado
 
 controller=0;
 
+//Volar
+efectoVolar=0;
+
 gamepad_set_axis_deadzone(0, 0.7);

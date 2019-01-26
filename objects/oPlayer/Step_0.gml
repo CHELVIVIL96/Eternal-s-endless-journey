@@ -34,6 +34,15 @@ if (place_meeting(x, y+1, oWall)) and (key_space)
 	vsp = -4;
 }
 
+if(efectoVolar==1)and(key_space)
+{
+	vsp = -3;
+	if(place_meeting(x, y+1, oWall))
+	{
+		efectoVolar=0;
+	}
+}
+
 //Colision horizontal
 if (place_meeting(x+hsp, y, oWall))
 {

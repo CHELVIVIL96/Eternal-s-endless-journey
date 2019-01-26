@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oAlas",
     "eventList": [
-        
+        {
+            "id": "977bb4c0-a2ce-44a9-8f5c-84cb694745a3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "db173a8e-81dd-47f8-ad9b-551ea62520e9",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "5d9b0cb6-9482-4807-8a50-d78cfa3684ed"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
