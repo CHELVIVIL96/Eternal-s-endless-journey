@@ -80,8 +80,10 @@ if (place_meeting(x, y+1, oWall))
 
 if (key_space) and (doubleJump > 0)
 {show_debug_message(doubleJump);
+	audio_play_sound(Salto___Salto,25,false);
 	doubleJump-=1;
 	vsp=-4;
+	
 }
 
 if(efectoVolar==1)

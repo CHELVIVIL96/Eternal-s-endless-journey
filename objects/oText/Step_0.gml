@@ -5,7 +5,7 @@
 
 	if (contado >= 5 * 1000000) {
 		if(opacidadd<0){
-	   instance_destroy(oText);
+	   instance_destroy(instacia);
 		}
 		else{
 		opacidadd = opacidadd - 0.05;
