@@ -14,3 +14,6 @@ doubleJump=0;
 maxJumps=2;
 
 gamepad_set_axis_deadzone(0, 0.7);
+draw_set_alpha(1);
+
+
