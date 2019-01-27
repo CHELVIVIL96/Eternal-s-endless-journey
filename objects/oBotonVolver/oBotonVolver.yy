@@ -1,28 +1,28 @@
 {
-    "id": "5d9b0cb6-9482-4807-8a50-d78cfa3684ed",
+    "id": "6df410e7-df60-4cca-b9d8-65cf51ec1cfb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oAlas",
+    "name": "oBotonVolver",
     "eventList": [
         {
-            "id": "977bb4c0-a2ce-44a9-8f5c-84cb694745a3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "db173a8e-81dd-47f8-ad9b-551ea62520e9",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "5d9b0cb6-9482-4807-8a50-d78cfa3684ed"
-        },
-        {
-            "id": "05b90f75-9a8e-4a08-96cd-086863e973b3",
+            "id": "79548390-cb4b-4887-8c2e-6f6042284439",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "5d9b0cb6-9482-4807-8a50-d78cfa3684ed"
+            "m_owner": "6df410e7-df60-4cca-b9d8-65cf51ec1cfb"
+        },
+        {
+            "id": "9d67dfdc-a955-4661-81f6-94fe513768de",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "6df410e7-df60-4cca-b9d8-65cf51ec1cfb"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "877f33fb-14ec-4894-a62d-7ccf70562c2a",
+    "spriteId": "fd4e3191-4c44-45e8-a1ce-516c9803c7da",
     "visible": true
 }
