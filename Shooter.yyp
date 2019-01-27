@@ -455,6 +455,14 @@
             }
         },
         {
+            "Key": "5f820f31-c4ad-4268-b7bc-9d1382998bdf",
+            "Value": {
+                "id": "91751145-ae02-4bb6-984d-6481625befa3",
+                "resourcePath": "sprites\\sprite46\\sprite46.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5fa298d2-2fc6-4922-a09f-a82f12e4b30b",
             "Value": {
                 "id": "f32ab9c7-c8ff-4716-866b-89eeaee0de64",
@@ -543,8 +551,6 @@
             }
         },
         {
-
-
             "Key": "7d071746-f250-4134-b93f-43e0191af7be",
             "Value": {
                 "id": "dfbbfb87-7fc0-4451-9b25-207688e7801f",
@@ -573,6 +579,14 @@
             "Value": {
                 "id": "2fabe760-0a47-4914-8e0d-bcabec172442",
                 "resourcePath": "sprites\\sZacateArriba\\sZacateArriba.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7fcd73fe-363c-459c-97c2-e7ec8f1fedb5",
+            "Value": {
+                "id": "b62e7c0e-334f-4954-b44e-73ab8cfe7898",
+                "resourcePath": "sprites\\sPisoA\\sPisoA.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -717,6 +731,14 @@
             "Value": {
                 "id": "7cbe009b-6c9b-4625-84e7-146c1466fe92",
                 "resourcePath": "sprites\\sMountain\\sMountain.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9edcf882-5cb8-476a-ad1b-92a3241ae763",
+            "Value": {
+                "id": "70577a73-adde-4e3a-a3f4-13b6eeb61332",
+                "resourcePath": "sprites\\sVerticalFire\\sVerticalFire.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -878,6 +900,14 @@
                 "id": "2e9128f8-30e9-47d8-b558-7051d96c36ce",
                 "resourcePath": "views\\c6727282-340f-4189-875b-2ea0f8435bcf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c944f8eb-f326-4652-98b9-357e91f1d5c1",
+            "Value": {
+                "id": "57d0feca-d3a5-4647-bc3e-7b2dfce62b02",
+                "resourcePath": "sprites\\sRued\\sRued.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
