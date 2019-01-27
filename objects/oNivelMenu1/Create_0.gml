@@ -3,4 +3,5 @@
 sprite_index=sNivelMenu1;
 image_speed=0;
 image_index=1;
+var sonido=0;
 

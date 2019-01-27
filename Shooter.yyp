@@ -879,6 +879,14 @@
             }
         },
         {
+            "Key": "c4aad293-477f-4213-aae4-e94ba871d26e",
+            "Value": {
+                "id": "4a9f1f44-9d93-42c2-94a9-b15ac37f2582",
+                "resourcePath": "sounds\\GGJ_2019_Tierra\\GGJ_2019_Tierra.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c5c89c6b-c2e7-489c-be70-608cf1d5c6ed",
             "Value": {
                 "id": "6635b112-2496-41ea-b523-690023c53d4a",
@@ -975,6 +983,14 @@
             }
         },
         {
+            "Key": "e8048d19-45ff-4ef9-9bd7-2b1247af7a18",
+            "Value": {
+                "id": "c6b2adee-0406-4318-a679-5133a6bf4f1b",
+                "resourcePath": "sounds\\GGJ_2019_Cielo\\GGJ_2019_Cielo.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e9a5e0af-23fd-43a2-9adf-e5805f411230",
             "Value": {
                 "id": "c0092008-1945-4461-bd12-964940656f74",
@@ -988,6 +1004,14 @@
                 "id": "3ad4d057-5621-47d6-a5e9-322cc9146983",
                 "resourcePath": "objects\\oCamera\\oCamera.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eedae575-38be-4353-8383-8e2617ca63b1",
+            "Value": {
+                "id": "2a36ddad-e837-41e6-91f8-5d6663db96c3",
+                "resourcePath": "sounds\\GGJ_2019_Infierno\\GGJ_2019_Infierno.yy",
+                "resourceType": "GMSound"
             }
         },
         {
