@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "105d095a-6f16-43e6-840e-f0c1a850bc1c",
+            "Value": {
+                "id": "d138a87e-4afb-49da-8730-163cde2d18a1",
+                "resourcePath": "objects\\oSaveDataWorld\\oSaveDataWorld.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "112138f3-4bbd-461f-9a2f-be4122864af1",
             "Value": {
                 "id": "e45a4aa4-09f6-48db-9fe5-ae2363b16296",
@@ -76,6 +84,14 @@
                 "id": "ae618d23-1163-4df3-8a9c-b0f8b490cad2",
                 "resourcePath": "sprites\\sprite21\\sprite21.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "12256e24-30dd-4d02-9a55-0e24bf340163",
+            "Value": {
+                "id": "673b2e17-f4e2-4aaf-b759-91d73d948551",
+                "resourcePath": "objects\\oMensajeGanarWorld\\oMensajeGanarWorld.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -151,6 +167,14 @@
             }
         },
         {
+            "Key": "1d695169-630f-4046-8190-94a08d79e761",
+            "Value": {
+                "id": "4ad18eba-5ffc-4e50-a9ba-26d6c7af5006",
+                "resourcePath": "sounds\\GGJ_2019_Menu\\GGJ_2019_Menu.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1f34f287-30bc-4cce-911f-ac56aa95f70e",
             "Value": {
                 "id": "576b3674-c752-4f0f-bd77-37b4604a3b6c",
@@ -179,6 +203,14 @@
             "Value": {
                 "id": "a8b9655d-744b-42b1-bfe2-e1f39b0aa5f0",
                 "resourcePath": "objects\\oEnemy\\oEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "24dc23f7-5052-4a63-917b-294f9648407a",
+            "Value": {
+                "id": "ca41416f-db9d-44d0-9c92-f413fffca443",
+                "resourcePath": "objects\\oTextGanar\\oTextGanar.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -791,6 +823,14 @@
             }
         },
         {
+            "Key": "804111e4-88e5-438d-a3a3-374a8243a398",
+            "Value": {
+                "id": "7d866592-95d7-4276-b550-71b1fc03b405",
+                "resourcePath": "objects\\oMensajeGanar\\oMensajeGanar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "48c4c96b-1095-4ff7-8163-fe222cd5ba27",
@@ -1047,6 +1087,14 @@
             }
         },
         {
+            "Key": "b192346e-4e66-4e4c-824b-6782974c569b",
+            "Value": {
+                "id": "7e5cab6d-ceec-45fc-ab96-74ddaf31a2d8",
+                "resourcePath": "sounds\\GGJ_2019_Muerte\\GGJ_2019_Muerte.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "b1bf5d82-ba92-44ab-9516-2e5534e761f0",
             "Value": {
                 "id": "3837c55f-dd32-49c6-b8d7-404f3b65815a",
@@ -1063,6 +1111,14 @@
             }
         },
         {
+            "Key": "b716e395-d178-4156-9c2f-75217fa4f473",
+            "Value": {
+                "id": "a8ca841d-2fed-440e-9bcb-a6a8df2e9fad",
+                "resourcePath": "sounds\\GGJ_2019_Trampol_n\\GGJ_2019_Trampol_n.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "b8a1f920-c61c-4e8c-a28c-5430a16af551",
             "Value": {
                 "id": "f5cc9b2a-7abf-40ac-9dd1-7103f977c75d",
@@ -1075,6 +1131,14 @@
             "Value": {
                 "id": "a0fc8d35-74f2-4b2b-b8f7-5577bceadbc6",
                 "resourcePath": "objects\\oWallClimb\\oWallClimb.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "baa1bd86-2ab2-4b21-93e4-57e32655456b",
+            "Value": {
+                "id": "a93b2e6a-3c48-4fb0-9e3a-5e5d2f3dd3fb",
+                "resourcePath": "objects\\oMusicamenu\\oMusicamenu.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1396,6 +1460,14 @@
                 "id": "1e701a1c-9766-4efe-a277-3bb95b7f1093",
                 "resourcePath": "objects\\oRueda\\oRueda.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fb772f04-3329-48b0-9caa-febdbdfe9941",
+            "Value": {
+                "id": "1f048540-2643-4740-b05a-d63bbb2b75b9",
+                "resourcePath": "sounds\\Salto___Botones11\\Salto___Botones11.yy",
+                "resourceType": "GMSound"
             }
         },
         {

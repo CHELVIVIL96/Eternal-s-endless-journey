@@ -22,7 +22,7 @@ switch(accion){
 		
 		
 		ini_close();
-		//room_goto(room_world);
+		room_goto(room_world);
 	break;
 	case 2:
 		ini_open("savedata.txt");

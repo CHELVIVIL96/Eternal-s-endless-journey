@@ -22,7 +22,10 @@
         "ce97b8a7-b45a-408f-a610-d0a8f20e4d89",
         "f6a9a39f-70f0-4c9a-b6fa-b44d7fbe2436",
         "a21f77ab-6b7a-4b28-a801-23ec39b296d7",
+        "24dc23f7-5052-4a63-917b-294f9648407a",
         "90c71041-a728-4c41-abac-5d74f4937e3a",
+        "804111e4-88e5-438d-a3a3-374a8243a398",
+        "12256e24-30dd-4d02-9a55-0e24bf340163",
         "fe9ade13-0b06-471e-92b5-4d2c32733de1",
         "6f57f157-9c7e-4c72-8612-73e0be698deb",
         "d21e2b4d-99d1-4d13-b1ff-67f40c460a21",
@@ -31,6 +34,7 @@
         "7215afe3-d023-4e63-a158-30fdaa44c82e",
         "5772b5d0-a231-4ae1-8572-9b15c61f6f01",
         "ddff669c-7527-44eb-b54f-922fda924478",
+        "105d095a-6f16-43e6-840e-f0c1a850bc1c",
         "27694dca-d045-4070-b0ba-3c8e544652e5",
         "9030eb46-4dc9-4fd5-8b7b-1c96bdbaf223",
         "2efa8f4c-de76-4490-8161-1d564486c374",
@@ -52,9 +56,4 @@
         "ca409030-4c59-4535-b3c7-fa7bb714612c",
         "04135b0b-a63b-4896-ad3f-58f1a4f18f11",
         "bc658680-1926-48cd-b253-cdcf22d00a79"
-    ],
-    "filterType": "GMObject",
-    "folderName": "objects",
-    "isDefaultView": false,
-    "localisedFolderName": "ResourceTree_Objects"
 }
