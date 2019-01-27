@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "5b5c75b1-3694-4e8f-8f4f-b55089e96539",
+            "Value": {
+                "id": "5c34faf6-f2ac-45af-9375-6a9796f51fb9",
+                "resourcePath": "objects\\oMensajeAlas\\oMensajeAlas.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5d9b0cb6-9482-4807-8a50-d78cfa3684ed",
             "Value": {
                 "id": "95c29611-17ce-4f65-be2b-1cbae0991a39",
@@ -660,6 +668,14 @@
                 "id": "fae2150b-059b-4a5a-b1e8-f23a5402cdbf",
                 "resourcePath": "sprites\\sPlayer_walk\\sPlayer_walk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7c4dd3ab-e04b-45dd-9b1a-2f2451ab7b6a",
+            "Value": {
+                "id": "804667bc-5b22-408f-b94e-2f39db254bc4",
+                "resourcePath": "rooms\\room_heaven\\room_heaven.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -932,6 +948,14 @@
                 "id": "ab79e7b9-5d19-4545-bcc4-5f3bc5972a11",
                 "resourcePath": "sprites\\sZacateAbajo\\sZacateAbajo.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aef17633-05ca-4bee-8150-8bcdde01855a",
+            "Value": {
+                "id": "1fdab72a-b69d-4139-b187-d1833cf1cd46",
+                "resourcePath": "objects\\oMensajeTrampolin\\oMensajeTrampolin.yy",
+                "resourceType": "GMObject"
             }
         },
         {

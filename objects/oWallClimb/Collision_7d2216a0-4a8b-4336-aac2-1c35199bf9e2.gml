@@ -7,7 +7,9 @@ show_debug_message(gamepad_axis_value(0, gp_axislv));
 //oPlayer.vsp = -8;
 if(key_up!=0)
 {
-	audio_play_sound(Salto___Slide,25,false);
+	 sonidito=audio_play_sound(Salto___Slide,1,false);
+	audio_sound_gain(sonidito,0,0);
+	audio_sound_gain(sonidito,0.4,0);
 	oPlayer.vsp = -(key_up * climbSpeed);
 	if (key_space!=0)
 	{
@@ -15,5 +17,8 @@ if(key_up!=0)
 	}
 }else
 {
+audio_sound_gain(sonidito,0,0);
 audio_pause_sound(Salto___Slide7);
+
+
 }

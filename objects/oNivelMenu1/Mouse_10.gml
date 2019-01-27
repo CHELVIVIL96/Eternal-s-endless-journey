@@ -7,5 +7,5 @@ if(oNivelMenu2.bloqueoParental2==0 && oNivelMenu3.bloqueoParental3==0 && bloqueo
 
 	sonido=audio_play_sound(GGJ_2019_Infierno,100,true);
 	audio_sound_gain(sonido, 0, 0);
-	audio_sound_gain(sonido, 0.5, 4000);
+	audio_sound_gain(sonido, 0.8, 4000);
 }

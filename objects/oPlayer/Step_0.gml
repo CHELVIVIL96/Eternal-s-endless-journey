@@ -80,7 +80,7 @@ if (place_meeting(x, y+1, oWall))
 
 if (key_space) and (doubleJump > 0)
 {
-	audio_play_sound(Salto___Salto,25,false);
+	audio_play_sound(Salto___Salto,20,false);
 	doubleJump-=1;
 	vsp=-4;
 	
@@ -90,7 +90,7 @@ if(efectoVolar==1)
 {
 	death_time += delta_time;
 	
-	if (death_time >= 6 * 1000000) {
+	if (death_time >= 10 * 1000000) {
 	   efectoVolar=0;
 	}
 }
@@ -99,10 +99,11 @@ if(efectoVolar==1)
 if(efectoVolar>=1)and(key_space)
 {
 	vsp = -3;
-	if(place_meeting(x, y+1, oWall))
+	audio_play_sound(Salto___Salto,20,false);
+	/*if(place_meeting(x, y+1, oWall))
 	{
 		efectoVolar=0;
-	}
+	}*/
 }
 
 //Colision horizontal
@@ -145,7 +146,7 @@ if(!place_meeting(x,y+1,oWall))
 	{
 		sprite_index = sPlayer;
 	}else{
-		sprite_index=sPlayerR;	
+		sprite_index=sPlayer;	
 	}
 }
 //Para escalar la imagen, correr para atras
