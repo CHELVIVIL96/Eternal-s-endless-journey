@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "27694dca-d045-4070-b0ba-3c8e544652e5",
+            "Value": {
+                "id": "2b03d8fc-6e75-47e7-81e5-7cabdbcb00b3",
+                "resourcePath": "objects\\oLoadData\\oLoadData.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2954932d-0f6a-40f0-9135-ca458ae5f815",
             "Value": {
                 "id": "2696a0df-1e48-4527-8658-34a4f3a2c82e",
@@ -463,6 +471,14 @@
             }
         },
         {
+            "Key": "9030eb46-4dc9-4fd5-8b7b-1c96bdbaf223",
+            "Value": {
+                "id": "9127cdda-095e-46d1-b2e0-6cf9b6bade39",
+                "resourcePath": "objects\\oCronometro\\oCronometro.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "90c71041-a728-4c41-abac-5d74f4937e3a",
             "Value": {
                 "id": "93c0752b-34eb-459a-9475-5ba3ffaf23eb",
@@ -635,6 +651,14 @@
             "Value": {
                 "id": "10f496cf-0c8c-4021-91f1-6e7ba888c669",
                 "resourcePath": "objects\\oPlayer\\oPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ddff669c-7527-44eb-b54f-922fda924478",
+            "Value": {
+                "id": "7d5198a5-f166-438e-9498-13745e0a8fbb",
+                "resourcePath": "objects\\oSaveData\\oSaveData.yy",
                 "resourceType": "GMObject"
             }
         },
