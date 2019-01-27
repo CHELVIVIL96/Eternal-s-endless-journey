@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "273a18dc-d785-42e3-9ecc-80be9f18efbc",
+            "Value": {
+                "id": "dfc353e3-5d80-4ab0-a8b5-88db0c3a5183",
+                "resourcePath": "sprites\\sRueda\\sRueda.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2954932d-0f6a-40f0-9135-ca458ae5f815",
             "Value": {
                 "id": "2696a0df-1e48-4527-8658-34a4f3a2c82e",
@@ -172,6 +180,14 @@
                 "id": "fb94274f-7689-4025-ad4f-7437e7894b80",
                 "resourcePath": "tilesets\\tTiles\\tTiles.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "3905466e-444a-43b9-b25f-7cb8aa8cef88",
+            "Value": {
+                "id": "956d2136-e61b-48d2-8726-ef39e2978419",
+                "resourcePath": "objects\\Caida\\Caida.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -463,6 +479,14 @@
             }
         },
         {
+            "Key": "7f17f25a-cca0-48ab-ad38-b1a78d45c042",
+            "Value": {
+                "id": "2fabe760-0a47-4914-8e0d-bcabec172442",
+                "resourcePath": "sprites\\sZacateArriba\\sZacateArriba.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "48c4c96b-1095-4ff7-8163-fe222cd5ba27",
@@ -527,6 +551,22 @@
             }
         },
         {
+            "Key": "942e5be2-49a4-41b5-8271-f9892c5e4f9d",
+            "Value": {
+                "id": "27b1d0b2-5add-476b-900c-eff8bf755a52",
+                "resourcePath": "objects\\oMuerte\\oMuerte.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "95c7682d-6fb3-47d9-857f-be1d595bd9c8",
+            "Value": {
+                "id": "d0a1e1dc-2d42-46a3-8b3a-6b5fad54ebf0",
+                "resourcePath": "objects\\oZacateAbajo\\oZacateAbajo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "97d2edbf-9b3b-4eae-8115-bea38c57575a",
             "Value": {
                 "id": "d8622449-010d-4a4e-86c3-4e6665e32e4b",
@@ -548,6 +588,14 @@
                 "id": "06c91405-cdf8-444d-86a8-b205153baccd",
                 "resourcePath": "views\\9acbb53b-0bf1-4cb9-b157-6a8928b0966d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9ad370c7-01a5-4996-9a92-7166274e8a39",
+            "Value": {
+                "id": "28005f7b-f87c-4b23-b772-6e6a249445a3",
+                "resourcePath": "objects\\oZacateArriba\\oZacateArriba.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -603,6 +651,14 @@
             "Value": {
                 "id": "aa2530c6-fc24-477f-b49b-c64100d41f27",
                 "resourcePath": "sprites\\sWallClimb\\sWallClimb.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aba3308d-cd86-4fc4-92b0-e90610756f1f",
+            "Value": {
+                "id": "ab79e7b9-5d19-4545-bcc4-5f3bc5972a11",
+                "resourcePath": "sprites\\sZacateAbajo\\sZacateAbajo.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -687,6 +743,14 @@
             }
         },
         {
+            "Key": "d12dd625-b738-4f6a-a756-88bfc666a85b",
+            "Value": {
+                "id": "190fb37f-da2c-4b14-b891-1e029ad8722b",
+                "resourcePath": "objects\\oRueda2\\oRueda2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d38d0b1c-4813-425e-b528-c5a8dc8cb083",
             "Value": {
                 "id": "816708cc-4842-423a-8c5a-3514502c395d",
@@ -700,6 +764,14 @@
                 "id": "10f496cf-0c8c-4021-91f1-6e7ba888c669",
                 "resourcePath": "objects\\oPlayer\\oPlayer.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e0750822-4875-41a5-a248-02ef15b37fbe",
+            "Value": {
+                "id": "b7146352-c5dc-4bdb-8694-f3e1eb320537",
+                "resourcePath": "sprites\\sRueda2\\sRueda2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -748,6 +820,14 @@
                 "id": "84fbbbda-5962-4ef9-b885-8075b534de02",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "fa0d2aab-db7a-47e1-a1ab-22dd61dbef1c",
+            "Value": {
+                "id": "1e701a1c-9766-4efe-a277-3bb95b7f1093",
+                "resourcePath": "objects\\oRueda\\oRueda.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -91,6 +91,7 @@ if (place_meeting(x, y+vsp, oWall))
 	}
 	vsp = 0;
 }
+
 y = y + vsp;
 
 //Animation
@@ -114,7 +115,6 @@ if(!place_meeting(x,y+1,oWall))
 //Para escalar la imagen, correr para atras
 if(hsp!=0) image_xscale = sign(hsp);
 //image_xscale = -1;
-
 
 
 
