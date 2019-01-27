@@ -43,7 +43,7 @@
     "height": 32,
     "layers": [
         {
-            "id": "f4cd12b3-50d3-422e-9d86-8f31b7e468a6",
+            "id": "8f506452-37ec-4d6a-8284-0e620d15898d",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "8cec54c0-b0ff-40a7-ac1e-ad4d97f35d23",
@@ -65,6 +65,6 @@
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 32,
-    "xorig": 31,
+    "xorig": 0,
     "yorig": 0
 }
