@@ -2,7 +2,7 @@
 key_left = keyboard_check(vk_left) || keyboard_check(ord("A"));
 key_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
 key_space = keyboard_check_pressed(vk_space) || (gamepad_button_check_pressed(0, gp_face1)); 
-key_up = keyboard_check(vk_up) || keyboard_check(ord("W"));
+key_up = keyboard_check(vk_up) || keyboard_check(ord("W")) || (gamepad_axis_value(0, gp_axislv) < 0);
 key_down = keyboard_check(vk_down) || keyboard_check(ord("S"));
 key_shift = keyboard_check(vk_lshift)||(gamepad_button_check(0, gp_shoulderr));
 
