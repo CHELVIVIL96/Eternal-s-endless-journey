@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "105d095a-6f16-43e6-840e-f0c1a850bc1c",
+            "Value": {
+                "id": "d138a87e-4afb-49da-8730-163cde2d18a1",
+                "resourcePath": "objects\\oSaveDataWorld\\oSaveDataWorld.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "112138f3-4bbd-461f-9a2f-be4122864af1",
             "Value": {
                 "id": "e45a4aa4-09f6-48db-9fe5-ae2363b16296",
