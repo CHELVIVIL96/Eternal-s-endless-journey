@@ -14,6 +14,14 @@ if(abs(gamepad_axis_value(0,gp_axislh)) > 0.2)
 {
 	key_left = abs(min(gamepad_axis_value(0,gp_axislh),0));
 	key_right = max(gamepad_axis_value(0,gp_axislh),0);
+	
+	controller=1;
+}
+if(abs(gamepad_axis_value(0,gp_axislv)) > 0.2)
+{
+key_up = abs(min(gamepad_axis_value(0,gp_axislv),0));
+	key_down = max(gamepad_axis_value(0,gp_axislv),0);
+	
 	controller=1;
 }
 if(gamepad_button_check_pressed(0,gp_face1))
@@ -22,13 +30,37 @@ if(gamepad_button_check_pressed(0,gp_face1))
 	controller=1;
 }
 //Por si se aprecia las 2 al mismo tiempo se pueda mover en el aire
+/*walljumpdelay = max (walljumpdelay-1,0);
+if(walljumpdelay == 0)
+{}*/
 var move = key_right - key_left;
 
 //Velocidad horizontal es igual a movimiento por velocidad de caminado
 hsp = move * walkspeed;
 
+// wall jump
+/*
+if(onwall != 0 ) &&( !onground) && (key_space){
+	 walljumpdelay = walljumpdelay_max;
+	 hsp = -onwall * hsp_wjump;
+	 vsp = vsp_wjump;
+	 
+	
+}*/
+/*
+grav_final = grv;
+vsp_max_final = vsp_max;
+
+if(onwall != 0) && (vsp > 0)
+{
+	grav_final = grav_wall;
+	vsp_max_final = vsp_max_wall;
+}*/
 //Gravedad
 vsp = vsp + grv;
+/*vsp = clamp(vsp,-vsp_max_final,vsp_max_final);*/
+
+
 
 if(key_shift)
 {
@@ -40,7 +72,10 @@ if(key_shift)
 //show_debug_message(place_meeting(x, y+1, oWall));
 if (place_meeting(x, y+1, oWall))
 {
+	
+	
 	doubleJump=maxJumps;
+	
 }
 
 if (key_space) and (doubleJump > 0)
@@ -114,8 +149,16 @@ if(!place_meeting(x,y+1,oWall))
 //Para escalar la imagen, correr para atras
 if(hsp!=0) image_xscale = sign(hsp);
 //image_xscale = -1;
-
-
-
+/*
+onwall= place_meeting(x+1,y,oWall) - place_meeting(x-1,y,oWall);
+onground = place_meeting(x,y+1,oWall);
+show_debug_message(onwall);
+if(!place_meeting(x,y+1,oWall)){
+if(onwall!=0){
+	sprite_index = sEnemyA;
+	image_xscale = onwall;
+	
+	}
+}*/
 
 

@@ -1,5 +1,5 @@
 /// @description Colosion X
-key_up = keyboard_check(vk_up) || keyboard_check(ord("W"));
+key_up = keyboard_check(vk_up) || keyboard_check(ord("W")) || (gamepad_button_check(0, gp_axislv));
 key_space = keyboard_check(vk_space); 
 
 //Efecto trampolin
