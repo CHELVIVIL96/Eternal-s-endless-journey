@@ -15,5 +15,5 @@ if(key_up!=0)
 	}
 }else
 {
-audio_pause_sound(Salto___Slide);
+audio_pause_sound(Salto___Slide7);
 }

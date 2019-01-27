@@ -3,6 +3,6 @@
 sprite_index=sNivelMenu3;
 image_speed=0;
 image_index=1;
-
+bloqueoParental3=0;
 var sonido=0;
 

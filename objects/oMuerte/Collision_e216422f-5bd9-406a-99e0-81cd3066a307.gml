@@ -1,1 +1,2 @@
-game_restart();
+oPlayer.x=384;
+oPlayer.y=1344;

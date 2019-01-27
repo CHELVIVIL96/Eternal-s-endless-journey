@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1440a533-10fb-4299-ba72-8ca73abbd984",
+            "Value": {
+                "id": "9c1079cb-5aab-40bf-8a19-337eea27a25e",
+                "resourcePath": "sounds\\Salto___Botones\\Salto___Botones.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1a94e5a0-31d3-49e8-8b62-6542da4efe53",
             "Value": {
                 "id": "ac89251c-8128-4e49-8607-f68baf04f1dd",
@@ -180,6 +188,14 @@
                 "id": "279c9e95-9c1e-453e-8e61-638d68447441",
                 "resourcePath": "objects\\o_pisoInfiernobajo\\o_pisoInfiernobajo.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2f152769-fb15-4e6c-a911-af466a54b8ca",
+            "Value": {
+                "id": "495445db-d1ed-47e5-9de5-ae957077f396",
+                "resourcePath": "sounds\\Salto___Salto6\\Salto___Salto6.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -284,6 +300,14 @@
                 "id": "2bd9e5c3-483b-4efc-a6b0-6c141f580134",
                 "resourcePath": "views\\40fe6a50-59e7-4912-887c-7ec67891c43b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "415827f3-585e-4244-a028-6913ef1cb079",
+            "Value": {
+                "id": "8846b763-b9aa-4318-b0ae-39d8af08bf4b",
+                "resourcePath": "sounds\\Salto___Slide7\\Salto___Slide7.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -867,6 +891,14 @@
             "Value": {
                 "id": "a0fc8d35-74f2-4b2b-b8f7-5577bceadbc6",
                 "resourcePath": "objects\\oWallClimb\\oWallClimb.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bb74c09c-9467-4005-ac52-0df6518cc8fb",
+            "Value": {
+                "id": "58285e3c-bb24-4fe2-bb05-4cafe7b80537",
+                "resourcePath": "objects\\oNivel2\\oNivel2.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -1,18 +1,18 @@
 {
-    "id": "5772b5d0-a231-4ae1-8572-9b15c61f6f01",
+    "id": "bb74c09c-9467-4005-ac52-0df6518cc8fb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_pisoinfiertop",
+    "name": "oNivel2",
     "eventList": [
         {
-            "id": "010fc4d1-366c-4491-a7e3-bb92e95ef6b8",
+            "id": "00e13dfe-efad-43e3-b4c9-2efda31da86a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 3,
-            "m_owner": "5772b5d0-a231-4ae1-8572-9b15c61f6f01"
+            "collisionObjectId": "db173a8e-81dd-47f8-ad9b-551ea62520e9",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "bb74c09c-9467-4005-ac52-0df6518cc8fb"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -32,7 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": false,
-    "spriteId": "7fcd73fe-363c-459c-97c2-e7ec8f1fedb5",
-    "visible": true
+    "solid": true,
+    "spriteId": "8cec54c0-b0ff-40a7-ac1e-ad4d97f35d23",
+    "visible": false
 }
