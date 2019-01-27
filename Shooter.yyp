@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "12256e24-30dd-4d02-9a55-0e24bf340163",
+            "Value": {
+                "id": "673b2e17-f4e2-4aaf-b759-91d73d948551",
+                "resourcePath": "objects\\oMensajeGanarWorld\\oMensajeGanarWorld.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "130ab6ab-89f1-4e3f-bcc7-0d60ffe9b40d",
             "Value": {
                 "id": "a2377e90-f365-442d-8aab-5af66d20665b",
@@ -171,6 +179,14 @@
             "Value": {
                 "id": "a8b9655d-744b-42b1-bfe2-e1f39b0aa5f0",
                 "resourcePath": "objects\\oEnemy\\oEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "24dc23f7-5052-4a63-917b-294f9648407a",
+            "Value": {
+                "id": "ca41416f-db9d-44d0-9c92-f413fffca443",
+                "resourcePath": "objects\\oTextGanar\\oTextGanar.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -740,6 +756,14 @@
                 "id": "b62e7c0e-334f-4954-b44e-73ab8cfe7898",
                 "resourcePath": "sprites\\sPisoA\\sPisoA.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "804111e4-88e5-438d-a3a3-374a8243a398",
+            "Value": {
+                "id": "7d866592-95d7-4276-b550-71b1fc03b405",
+                "resourcePath": "objects\\oMensajeGanar\\oMensajeGanar.yy",
+                "resourceType": "GMObject"
             }
         },
         {
