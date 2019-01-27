@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "04135b0b-a63b-4896-ad3f-58f1a4f18f11",
+            "Value": {
+                "id": "cd9c71ca-98e0-4032-8999-13c3cb8e2f0b",
+                "resourcePath": "objects\\Piso_CR\\Piso_CR.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0526b67c-e42a-4fef-bbee-3f3d13740d08",
             "Value": {
                 "id": "43d02d07-08bb-4f5e-9086-6d4a82818a05",
@@ -100,6 +108,22 @@
                 "id": "9c1079cb-5aab-40bf-8a19-337eea27a25e",
                 "resourcePath": "sounds\\Salto___Botones\\Salto___Botones.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "17f693b0-b4fb-45ac-aaf4-1af5c92afc3c",
+            "Value": {
+                "id": "0712d31e-4d3b-4d8b-9dfc-83ec63259717",
+                "resourcePath": "sprites\\sPlayerAlasStatic\\sPlayerAlasStatic.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "19faa9f5-0d15-40c7-8c9f-1e1d5921ede5",
+            "Value": {
+                "id": "71e28559-db6c-4e5b-a346-c55442a04965",
+                "resourcePath": "sprites\\sAlasPower\\sAlasPower.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -179,6 +203,14 @@
             "Value": {
                 "id": "2696a0df-1e48-4527-8658-34a4f3a2c82e",
                 "resourcePath": "sprites\\sEnemyA\\sEnemyA.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d088506-6bf5-4179-a792-7512583e5591",
+            "Value": {
+                "id": "89c9e420-43e2-49b8-99f0-d185e6c1a5e9",
+                "resourcePath": "sprites\\sPiedra2\\sPiedra2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -343,6 +375,14 @@
             }
         },
         {
+            "Key": "453a0804-1ca0-4afc-9ef7-84699d73f1b7",
+            "Value": {
+                "id": "e40cf938-250c-4a63-9a59-e42adf1ae54b",
+                "resourcePath": "sprites\\piso_cielorelleno\\piso_cielorelleno.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "47658ef8-41d1-4232-abd9-0e98f8aaa9ed",
             "Value": {
                 "id": "dd1c8c3d-7d0b-49d8-8512-a734d8f59da1",
@@ -396,6 +436,14 @@
                 "id": "bb33a294-5714-4fae-9e55-d837ea7a120d",
                 "resourcePath": "objects\\oNivelMenu1\\oNivelMenu1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4c0458b8-37e4-470c-8bc6-72ff484e6e9e",
+            "Value": {
+                "id": "f17a491f-98ec-48b1-8062-aee4cabdb756",
+                "resourcePath": "sprites\\sprite59\\sprite59.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -599,6 +647,14 @@
             }
         },
         {
+            "Key": "68d54404-a9fd-426c-96b9-fd514b963a59",
+            "Value": {
+                "id": "0b41a2aa-6aa1-409a-ba46-40f303482f09",
+                "resourcePath": "sprites\\piso_cieloArriba\\piso_cieloArriba.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6af2c572-44ef-46d7-9eb6-a678644a909b",
             "Value": {
                 "id": "f4159675-709b-442e-9932-2cc4d423b5df",
@@ -636,6 +692,14 @@
                 "id": "e0fbafcb-77be-4e57-a3f1-4fc6f6358fbf",
                 "resourcePath": "objects\\oTransition\\oTransition.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "72a3427e-1f88-46db-a592-063440ec8c85",
+            "Value": {
+                "id": "4b0d5aaf-561a-4150-9622-76929b476e57",
+                "resourcePath": "sprites\\rayos\\rayos.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -839,6 +903,14 @@
             }
         },
         {
+            "Key": "97f23382-7066-4850-a2b8-9b9cf0230a2c",
+            "Value": {
+                "id": "7ad44e25-4bba-44c2-9082-9200cdba6323",
+                "resourcePath": "sprites\\sPiedra211\\sPiedra211.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "999c65c3-dc87-459c-a5fa-1a716be248b0",
             "Value": {
                 "id": "45814133-9e71-40af-8346-52cbd587436a",
@@ -875,6 +947,14 @@
             "Value": {
                 "id": "7cbe009b-6c9b-4625-84e7-146c1466fe92",
                 "resourcePath": "sprites\\sMountain\\sMountain.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9ccd6474-8d36-407a-896c-6193de53be5a",
+            "Value": {
+                "id": "c6d1ec49-0f26-444f-96fd-aca9a2b69690",
+                "resourcePath": "sprites\\sPiedra2111\\sPiedra2111.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1007,6 +1087,14 @@
             }
         },
         {
+            "Key": "bc658680-1926-48cd-b253-cdcf22d00a79",
+            "Value": {
+                "id": "d674c148-f1ed-4337-b4ad-dd1efc59dbc9",
+                "resourcePath": "objects\\piso_CA\\piso_CA.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bcd588ee-6772-4302-aee9-8ad8febb8554",
             "Value": {
                 "id": "5e883d5b-2120-4857-ac12-5f40cd0b148f",
@@ -1035,6 +1123,14 @@
             "Value": {
                 "id": "480b5baf-2928-4f78-8168-21a8e81c4c8b",
                 "resourcePath": "objects\\oDead\\oDead.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c39b7eec-0e6f-4a35-8996-670638d37c0c",
+            "Value": {
+                "id": "ee33b880-10b0-4bd7-b502-a6a2b527812f",
+                "resourcePath": "objects\\o_rayos\\o_rayos.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1068,6 +1164,14 @@
                 "id": "2e9128f8-30e9-47d8-b558-7051d96c36ce",
                 "resourcePath": "views\\c6727282-340f-4189-875b-2ea0f8435bcf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c7b0dd14-5b00-4b7c-bf0d-e7262a049c14",
+            "Value": {
+                "id": "d99a845a-2d35-4c95-b927-719eb6fff36e",
+                "resourcePath": "sprites\\sPiedra21\\sPiedra21.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1131,6 +1235,14 @@
             "Value": {
                 "id": "816708cc-4842-423a-8c5a-3514502c395d",
                 "resourcePath": "sprites\\sTiles\\sTiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d748c6e6-949f-43a7-98bd-9e9f5926fbd4",
+            "Value": {
+                "id": "0b7b2132-6396-4809-be8b-e1ecad3e4d0e",
+                "resourcePath": "sprites\\sPlayerAlas\\sPlayerAlas.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1228,6 +1340,22 @@
                 "id": "65172875-e694-4023-82be-9f19064f1e8a",
                 "resourcePath": "views\\f2223384-0313-4d20-81e5-5c53723bca90.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f2f88eb7-22d1-4a25-b6e9-2755cacdf1c3",
+            "Value": {
+                "id": "09127100-37f0-4113-b1df-2c5e9dcca9ca",
+                "resourcePath": "sprites\\sPlayerAlasR\\sPlayerAlasR.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f34ec24c-5343-4361-83a1-b8ce2c85e43f",
+            "Value": {
+                "id": "4a2d5655-90d9-4bdf-972a-9f81ab307bc7",
+                "resourcePath": "sprites\\sprite64\\sprite64.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

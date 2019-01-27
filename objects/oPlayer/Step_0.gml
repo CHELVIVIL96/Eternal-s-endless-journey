@@ -86,25 +86,7 @@ if (key_space) and (doubleJump > 0)
 	
 }
 
-if(efectoVolar==1)
-{
-	death_time += delta_time;
-	
-	if (death_time >= 10 * 1000000) {
-	   efectoVolar=0;
-	}
-}
 
-
-if(efectoVolar>=1)and(key_space)
-{
-	vsp = -3;
-	audio_play_sound(Salto___Salto,20,false);
-	/*if(place_meeting(x, y+1, oWall))
-	{
-		efectoVolar=0;
-	}*/
-}
 
 //Colision horizontal
 if (place_meeting(x+hsp, y, oWall))
@@ -146,7 +128,7 @@ if(!place_meeting(x,y+1,oWall))
 	{
 		sprite_index = sPlayer;
 	}else{
-		sprite_index=sPlayer;	
+		sprite_index=sPlayerR;	
 	}
 }
 //Para escalar la imagen, correr para atras
@@ -163,4 +145,38 @@ if(onwall!=0){
 	
 	}
 }*/
+
+if(efectoVolar==1)
+{
+	sprite_index = sPlayerAlas;
+	
+	if (sign(vsp) > 0) image_index=0; else image_index=1;
+	
+	if(vsp==0)
+	{
+		sprite_index = sPlayerAlasStatic;
+	}
+	if(hsp>0)
+	{
+		//sprite_index = sPlayerAlasR;
+	}
+	
+	death_time += delta_time;
+	
+	if (death_time >= 10 * 1000000) {
+	   efectoVolar=0;
+	}
+}
+
+
+if(efectoVolar>=1)and(key_space)
+{
+	vsp = -3;
+	audio_play_sound(Salto___Salto,20,false);
+	
+	/*if(place_meeting(x, y+1, oWall))
+	{
+		efectoVolar=0;
+	}*/
+}
 
