@@ -1,38 +1,28 @@
 {
-    "id": "ddff669c-7527-44eb-b54f-922fda924478",
+    "id": "d21e2b4d-99d1-4d13-b1ff-67f40c460a21",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oSaveData",
+    "name": "oMensajeShift",
     "eventList": [
         {
-            "id": "3175d9da-d527-41ea-9e7d-587585b782be",
+            "id": "08cae6d4-98d2-4b8d-ac1f-27584c697e56",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "ddff669c-7527-44eb-b54f-922fda924478"
+            "m_owner": "d21e2b4d-99d1-4d13-b1ff-67f40c460a21"
         },
         {
-            "id": "5dd6d2f3-e0b4-43ca-bf28-b31cb1535a54",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "ddff669c-7527-44eb-b54f-922fda924478"
-        },
-        {
-            "id": "9b0206f1-a1c6-4462-81d6-43db17ed1fc1",
+            "id": "6e245b8b-2e75-430c-870a-02399180add4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "db173a8e-81dd-47f8-ad9b-551ea62520e9",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "ddff669c-7527-44eb-b54f-922fda924478"
+            "m_owner": "d21e2b4d-99d1-4d13-b1ff-67f40c460a21"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -51,8 +41,23 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "2fd6ba70-63ef-43ba-928b-28b7c5cfa7f0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "message",
+            "varName": "mensaje",
+            "varType": 2
+        }
+    ],
     "solid": false,
-    "spriteId": "999c65c3-dc87-459c-a5fa-1a716be248b0",
+    "spriteId": "a816faab-5aff-4ab5-ab72-b7549283ffac",
     "visible": true
 }
