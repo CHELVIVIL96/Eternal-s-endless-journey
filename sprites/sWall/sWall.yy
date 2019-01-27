@@ -29,11 +29,11 @@
             },
             "images": [
                 {
-                    "id": "dd5825a4-229c-424b-9e60-78f3e95673f7",
+                    "id": "73a7c748-3465-40a5-942e-d63a47e46356",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
                     "FrameId": "a83a38fb-764e-450a-9d98-a5ddee542ac2",
-                    "LayerId": "f4cd12b3-50d3-422e-9d86-8f31b7e468a6"
+                    "LayerId": "8f506452-37ec-4d6a-8284-0e620d15898d"
                 }
             ]
         }

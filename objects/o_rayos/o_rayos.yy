@@ -1,18 +1,18 @@
 {
-    "id": "d12dd625-b738-4f6a-a756-88bfc666a85b",
+    "id": "c39b7eec-0e6f-4a35-8996-670638d37c0c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oRueda2",
+    "name": "o_rayos",
     "eventList": [
         {
-            "id": "ac79b095-f468-4673-90b2-af179c42f0ef",
+            "id": "2c9f5de2-276f-4de6-b7c7-ae11489bb5d7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "db173a8e-81dd-47f8-ad9b-551ea62520e9",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "d12dd625-b738-4f6a-a756-88bfc666a85b"
+            "m_owner": "c39b7eec-0e6f-4a35-8996-670638d37c0c"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -32,7 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": false,
-    "spriteId": "5f820f31-c4ad-4268-b7bc-9d1382998bdf",
+    "solid": true,
+    "spriteId": "72a3427e-1f88-46db-a592-063440ec8c85",
     "visible": true
 }

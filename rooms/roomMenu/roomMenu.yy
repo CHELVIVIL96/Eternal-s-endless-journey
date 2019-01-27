@@ -10,14 +10,13 @@
         "5172089b-eb63-42d5-8261-2793a8f9c189",
         "c777b5bc-c510-4aa7-aac2-2ddba80bb171",
         "f5bb8089-fc66-46e2-9ba6-64f37f67cd09",
-        "c46edd67-31fb-44aa-93e5-d57566db075e",
-        "7e450d27-34cc-41c0-a466-a5b993f0be23"
+        "c46edd67-31fb-44aa-93e5-d57566db075e"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "musica",
+            "name": "crono",
             "id": "49b68d57-537e-417f-ba58-22d6bdfdd220",
             "depth": 0,
             "grid_x": 32,
@@ -29,7 +28,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_62F2BD1F","id": "7e450d27-34cc-41c0-a466-a5b993f0be23","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_62F2BD1F","objId": "baa1bd86-2ab2-4b21-93e4-57e32655456b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 992,"y": 320}
+
             ],
             "layers": [
 

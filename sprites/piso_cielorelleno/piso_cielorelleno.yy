@@ -1,8 +1,8 @@
 {
-    "id": "fd4e3191-4c44-45e8-a1ce-516c9803c7da",
+    "id": "453a0804-1ca0-4afc-9ef7-84699d73f1b7",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sBotonVolverMenu",
+    "name": "piso_cielorelleno",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -16,37 +16,37 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "3aa263c5-d24f-4209-aa8f-c58de6974d8c",
+            "id": "e118fc60-b311-4da5-bcf1-16b568ec7305",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "fd4e3191-4c44-45e8-a1ce-516c9803c7da",
+            "SpriteId": "453a0804-1ca0-4afc-9ef7-84699d73f1b7",
             "compositeImage": {
-                "id": "7209d819-90dc-490a-9d2a-9a2e2cf6f897",
+                "id": "0a033740-8228-4e71-9c68-24437291a49b",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "3aa263c5-d24f-4209-aa8f-c58de6974d8c",
+                "FrameId": "e118fc60-b311-4da5-bcf1-16b568ec7305",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "1e2309a2-ae32-455a-9909-fd74d1343a76",
+                    "id": "39af223f-21ef-4d50-a8b9-5ba755eff27f",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "3aa263c5-d24f-4209-aa8f-c58de6974d8c",
-                    "LayerId": "6a95c899-9f90-4fe2-a88a-ae295d6e1caf"
+                    "FrameId": "e118fc60-b311-4da5-bcf1-16b568ec7305",
+                    "LayerId": "73b91428-b6a8-43ec-a382-fe1cd2e78ff9"
                 }
             ]
         }
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 61,
+    "height": 32,
     "layers": [
         {
-            "id": "6a95c899-9f90-4fe2-a88a-ae295d6e1caf",
+            "id": "73b91428-b6a8-43ec-a382-fe1cd2e78ff9",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "fd4e3191-4c44-45e8-a1ce-516c9803c7da",
+            "SpriteId": "453a0804-1ca0-4afc-9ef7-84699d73f1b7",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
@@ -64,7 +64,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 54,
+    "width": 32,
     "xorig": 0,
     "yorig": 0
 }
