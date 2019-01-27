@@ -1,6 +1,6 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-draw_set_color(c_black)
+draw_set_color(c_white)
 draw_text_ext(oNivelMenu1.x+170,oNivelMenu1.y-40,room1score,100,100);
 draw_text_ext(oNivelMenu1.x+120,oNivelMenu1.y-40,room1nombre,100,100);
 draw_text_ext(oNivelMenu2.x+170,oNivelMenu2.y-40,room2score,100,100);
