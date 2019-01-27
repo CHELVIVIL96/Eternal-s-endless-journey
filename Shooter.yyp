@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "117c340e-ae0b-41fa-9c5b-7ef9b425d97d",
+            "Value": {
+                "id": "ae618d23-1163-4df3-8a9c-b0f8b490cad2",
+                "resourcePath": "sprites\\sprite21\\sprite21.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "130ab6ab-89f1-4e3f-bcc7-0d60ffe9b40d",
             "Value": {
                 "id": "a2377e90-f365-442d-8aab-5af66d20665b",
@@ -535,22 +543,8 @@
             }
         },
         {
-            "Key": "778d7e1e-a5b8-432a-a8c2-cb1e8b0ce437",
-            "Value": {
-                "id": "23cecf32-bf41-4e10-aa22-fd0cf43c8021",
-                "resourcePath": "sprites\\s_verticalFire\\s_verticalFire.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "77f7718d-5a9b-4226-9e2e-1023a920bc20",
-            "Value": {
-                "id": "f414b857-06c6-40b7-8041-206c64ed6dfe",
-                "resourcePath": "objects\\oBotonOpcion\\oBotonOpcion.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
+
+
             "Key": "7d071746-f250-4134-b93f-43e0191af7be",
             "Value": {
                 "id": "dfbbfb87-7fc0-4451-9b25-207688e7801f",
@@ -755,14 +749,6 @@
             "Value": {
                 "id": "79d98354-81fb-4670-8771-f5a787466e93",
                 "resourcePath": "objects\\oText\\oText.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "a771ab0f-1692-4636-b52d-a5dfd90ec3a1",
-            "Value": {
-                "id": "357dd8a2-01e5-43e6-bc6b-eafd7a51efe5",
-                "resourcePath": "objects\\oBotonInfo\\oBotonInfo.yy",
                 "resourceType": "GMObject"
             }
         },
