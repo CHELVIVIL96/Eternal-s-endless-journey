@@ -1,28 +1,28 @@
 {
-    "id": "d12dd625-b738-4f6a-a756-88bfc666a85b",
+    "id": "baa1bd86-2ab2-4b21-93e4-57e32655456b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oRueda2",
+    "name": "oMusicamenu",
     "eventList": [
         {
-            "id": "ac79b095-f468-4673-90b2-af179c42f0ef",
+            "id": "a76a077e-97c3-451e-ab50-fa7a4f7a8d2f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "db173a8e-81dd-47f8-ad9b-551ea62520e9",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "d12dd625-b738-4f6a-a756-88bfc666a85b"
+            "eventtype": 3,
+            "m_owner": "baa1bd86-2ab2-4b21-93e4-57e32655456b"
         },
         {
-            "id": "b36f8b57-9fbb-445f-ad7c-5d9ed8e42847",
+            "id": "71417c44-194a-44fa-a549-d4f0a0867871",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "d12dd625-b738-4f6a-a756-88bfc666a85b"
+            "m_owner": "baa1bd86-2ab2-4b21-93e4-57e32655456b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5f820f31-c4ad-4268-b7bc-9d1382998bdf",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

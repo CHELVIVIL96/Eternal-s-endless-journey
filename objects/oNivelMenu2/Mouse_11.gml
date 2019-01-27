@@ -3,5 +3,6 @@
 image_index=1;
 if(oNivelMenu1.bloqueoParental==0 && oNivelMenu3.bloqueoParental3==0 && bloqueoParental2==0)
 {
+audio_play_sound(GGJ_2019_Menu,60,true);
 audio_sound_gain(sonido, 0, 600);
 }

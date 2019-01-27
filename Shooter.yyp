@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "1d695169-630f-4046-8190-94a08d79e761",
+            "Value": {
+                "id": "4ad18eba-5ffc-4e50-a9ba-26d6c7af5006",
+                "resourcePath": "sounds\\GGJ_2019_Menu\\GGJ_2019_Menu.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1f34f287-30bc-4cce-911f-ac56aa95f70e",
             "Value": {
                 "id": "576b3674-c752-4f0f-bd77-37b4604a3b6c",
@@ -975,6 +983,14 @@
             }
         },
         {
+            "Key": "b192346e-4e66-4e4c-824b-6782974c569b",
+            "Value": {
+                "id": "7e5cab6d-ceec-45fc-ab96-74ddaf31a2d8",
+                "resourcePath": "sounds\\GGJ_2019_Muerte\\GGJ_2019_Muerte.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "b1bf5d82-ba92-44ab-9516-2e5534e761f0",
             "Value": {
                 "id": "3837c55f-dd32-49c6-b8d7-404f3b65815a",
@@ -991,6 +1007,14 @@
             }
         },
         {
+            "Key": "b716e395-d178-4156-9c2f-75217fa4f473",
+            "Value": {
+                "id": "a8ca841d-2fed-440e-9bcb-a6a8df2e9fad",
+                "resourcePath": "sounds\\GGJ_2019_Trampol_n\\GGJ_2019_Trampol_n.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "b8a1f920-c61c-4e8c-a28c-5430a16af551",
             "Value": {
                 "id": "f5cc9b2a-7abf-40ac-9dd1-7103f977c75d",
@@ -1003,6 +1027,14 @@
             "Value": {
                 "id": "a0fc8d35-74f2-4b2b-b8f7-5577bceadbc6",
                 "resourcePath": "objects\\oWallClimb\\oWallClimb.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "baa1bd86-2ab2-4b21-93e4-57e32655456b",
+            "Value": {
+                "id": "a93b2e6a-3c48-4fb0-9e3a-5e5d2f3dd3fb",
+                "resourcePath": "objects\\oMusicamenu\\oMusicamenu.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1276,6 +1308,14 @@
                 "id": "1e701a1c-9766-4efe-a277-3bb95b7f1093",
                 "resourcePath": "objects\\oRueda\\oRueda.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fb772f04-3329-48b0-9caa-febdbdfe9941",
+            "Value": {
+                "id": "1f048540-2643-4740-b05a-d63bbb2b75b9",
+                "resourcePath": "sounds\\Salto___Botones11\\Salto___Botones11.yy",
+                "resourceType": "GMSound"
             }
         },
         {
